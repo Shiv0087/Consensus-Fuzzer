@@ -1,0 +1,2306 @@
+{
+  "total": 92,
+  "divergenceCount": 15,
+  "results": [
+    {
+      "id": "stress-0",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "73629744928646825552151641550626183312357712753981618778253890179167028883075",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "73629744928646825552151641550626183312357712753981618778253890179167028883075",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "73629744928646825552151641550626183312357712753981618778253890179167028883075",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:43.645Z"
+    },
+    {
+      "id": "stress-1",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "50982025634097944800392956401782076874432212487236547251885914626426963762595",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "50982025634097944800392956401782076874432212487236547251885914626426963762595",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "50982025634097944800392956401782076874432212487236547251885914626426963762595",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:43.737Z"
+    },
+    {
+      "id": "stress-2",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "37219368660095037121134141380247960673260694469695722868067945957957946360792",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "37219368660095037121134141380247960673260694469695722868067945957957946360792",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "37219368660095037121134141380247960673260694469695722868067945957957946360792",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:43.830Z"
+    },
+    {
+      "id": "stress-3",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "1",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "1",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "1",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:43.921Z"
+    },
+    {
+      "id": "stress-4",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "110202999672601275831951271532814438690722471546186959963124731024779066778407",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "110202999672601275831951271532814438690722471546186959963124731024779066778407",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "110202999672601275831951271532814438690722471546186959963124731024779066778407",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:44.014Z"
+    },
+    {
+      "id": "stress-5",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129639425",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129639425",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129639425",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:44.108Z"
+    },
+    {
+      "id": "stress-6",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "5891443448240971050127830065478679156110226521694032382505867131455971897295",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "5891443448240971050127830065478679156110226521694032382505867131455971897295",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "5891443448240971050127830065478679156110226521694032382505867131455971897295",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:44.200Z"
+    },
+    {
+      "id": "stress-7",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129639932",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129639932",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129639932",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:44.291Z"
+    },
+    {
+      "id": "stress-8",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "20383759140725941270861587817118817756027983679613928134818675160289164547691",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "20383759140725941270861587817118817756027983679613928134818675160289164547691",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "20383759140725941270861587817118817756027983679613928134818675160289164547691",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:44.384Z"
+    },
+    {
+      "id": "stress-9",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "340282366920938463426481119284349042689",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "340282366920938463426481119284349042689",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "340282366920938463426481119284349042689",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:44.478Z"
+    },
+    {
+      "id": "stress-10",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "63995663379938129775342393805929489500014366948179308758305345932242225222592",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "63995663379938129775342393805929489500014366948179308758305345932242225222592",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "63995663379938129775342393805929489500014366948179308758305345932242225222592",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:44.568Z"
+    },
+    {
+      "id": "stress-11",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "55707975241073358431551471254662513043577236745507200522203679110972275790651",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "55707975241073358431551471254662513043577236745507200522203679110972275790651",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "55707975241073358431551471254662513043577236745507200522203679110972275790651",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:44.661Z"
+    },
+    {
+      "id": "stress-12",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129639932",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129639932",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129639932",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:44.758Z"
+    },
+    {
+      "id": "stress-13",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "10594620570094974581696512837173696409064701647938456613805207168689683886336",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "10594620570094974581696512837173696409064701647938456613805207168689683886336",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "10594620570094974581696512837173696409064701647938456613805207168689683886336",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:44.848Z"
+    },
+    {
+      "id": "stress-14",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "58537935511563398189793678429561116060328564523039088174483094363107324347312",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "58537935511563398189793678429561116060328564523039088174483094363107324347312",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "58537935511563398189793678429561116060328564523039088174483094363107324347312",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:44.941Z"
+    },
+    {
+      "id": "stress-15",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "34200081866148031799330385701762781039672723667971844837603980383107706818272",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "34200081866148031799330385701762781039672723667971844837603980383107706818272",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "34200081866148031799330385701762781039672723667971844837603980383107706818272",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:45.049Z"
+    },
+    {
+      "id": "stress-16",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "84853238566810337899276617674126184563936778510215022803801711433966202404760",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "84853238566810337899276617674126184563936778510215022803801711433966202404760",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "84853238566810337899276617674126184563936778510215022803801711433966202404760",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:45.141Z"
+    },
+    {
+      "id": "stress-17",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "72397843616609665447269988235142519469491471038971221800954170699341555199500",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "72397843616609665447269988235142519469491471038971221800954170699341555199500",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "72397843616609665447269988235142519469491471038971221800954170699341555199500",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:45.234Z"
+    },
+    {
+      "id": "stress-18",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "81736664402283332318407963976005355028898755514317469599292692489517323063856",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "81736664402283332318407963976005355028898755514317469599292692489517323063856",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "81736664402283332318407963976005355028898755514317469599292692489517323063856",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:45.341Z"
+    },
+    {
+      "id": "stress-19",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "97706047204413682871600029218666225455951632467974494441802739978270243517935",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "97706047204413682871600029218666225455951632467974494441802739978270243517935",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "97706047204413682871600029218666225455951632467974494441802739978270243517935",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:45.433Z"
+    },
+    {
+      "id": "stress-20",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "340282366920938463426481119284349043200",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "340282366920938463426481119284349043200",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "340282366920938463426481119284349043200",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:45.525Z"
+    },
+    {
+      "id": "stress-21",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "77346198515161415831920838405170716609243841457878236728256242181785056024456",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "77346198515161415831920838405170716609243841457878236728256242181785056024456",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "77346198515161415831920838405170716609243841457878236728256242181785056024456",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:45.620Z"
+    },
+    {
+      "id": "stress-22",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "76406846995170021314080085495617688540300259002814636351717041192661006795779",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "76406846995170021314080085495617688540300259002814636351717041192661006795779",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "76406846995170021314080085495617688540300259002814636351717041192661006795779",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:45.711Z"
+    },
+    {
+      "id": "stress-23",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "37683095275838901403845498880083585136697830086316347530095598054632942041904",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "37683095275838901403845498880083585136697830086316347530095598054632942041904",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "37683095275838901403845498880083585136697830086316347530095598054632942041904",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:45.819Z"
+    },
+    {
+      "id": "stress-24",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "60085810707433116360596699239696523961262892776120914639609322213497284656772",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "60085810707433116360596699239696523961262892776120914639609322213497284656772",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "60085810707433116360596699239696523961262892776120914639609322213497284656772",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:45.909Z"
+    },
+    {
+      "id": "stress-25",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "0",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "0",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "0",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:46.003Z"
+    },
+    {
+      "id": "stress-26",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "340282366920938463426481119284349108221",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "340282366920938463426481119284349108221",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "340282366920938463426481119284349108221",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:46.094Z"
+    },
+    {
+      "id": "stress-27",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "30427876114111896237309731688313342351368440995230991107489732734803991581376",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "30427876114111896237309731688313342351368440995230991107489732734803991581376",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "30427876114111896237309731688313342351368440995230991107489732734803991581376",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:46.202Z"
+    },
+    {
+      "id": "stress-28",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "1",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "1",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "1",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:46.309Z"
+    },
+    {
+      "id": "stress-29",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "40840485923962440370220771313804072711449497955162914762980808660515014642400",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "40840485923962440370220771313804072711449497955162914762980808660515014642400",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "40840485923962440370220771313804072711449497955162914762980808660515014642400",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:46.401Z"
+    },
+    {
+      "id": "stress-30",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "0",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "0",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "0",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:46.493Z"
+    },
+    {
+      "id": "stress-31",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "109944223678573832534349712747570854660236538104506307794278176434299685816772",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "109944223678573832534349712747570854660236538104506307794278176434299685816772",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "109944223678573832534349712747570854660236538104506307794278176434299685816772",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:46.584Z"
+    },
+    {
+      "id": "stress-32",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "9715690768285647964300816213720126305469935773734704477173596040349514343423",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "9715690768285647964300816213720126305469935773734704477173596040349514343423",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "9715690768285647964300816213720126305469935773734704477173596040349514343423",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:46.677Z"
+    },
+    {
+      "id": "stress-33",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "1",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "1",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "1",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:46.784Z"
+    },
+    {
+      "id": "stress-34",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "51596807545503228358718946670475699878058803702676240011851062481610944490621",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "51596807545503228358718946670475699878058803702676240011851062481610944490621",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "51596807545503228358718946670475699878058803702676240011851062481610944490621",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:46.877Z"
+    },
+    {
+      "id": "stress-35",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "44668692989339170849693698236577113982282657011415537930954400118371518863108",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "44668692989339170849693698236577113982282657011415537930954400118371518863108",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "44668692989339170849693698236577113982282657011415537930954400118371518863108",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:46.970Z"
+    },
+    {
+      "id": "stress-36",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "620380120413384203931335502901993856270511146766701182266733061554619584699",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "620380120413384203931335502901993856270511146766701182266733061554619584699",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "620380120413384203931335502901993856270511146766701182266733061554619584699",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:47.078Z"
+    },
+    {
+      "id": "stress-37",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "65024",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "65024",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "65024",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:47.208Z"
+    },
+    {
+      "id": "stress-38",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "106433703456881744449246529624926828088993632504966201994185867499767376584733",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "106433703456881744449246529624926828088993632504966201994185867499767376584733",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "106433703456881744449246529624926828088993632504966201994185867499767376584733",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:47.299Z"
+    },
+    {
+      "id": "stress-39",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "74671953169516084064050758074936376268021007864839055266042884517043227586728",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "74671953169516084064050758074936376268021007864839055266042884517043227586728",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "74671953169516084064050758074936376268021007864839055266042884517043227586728",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:47.402Z"
+    },
+    {
+      "id": "stress-40",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "57753059703226801851781381242167338912810696791808355294890926202380827041487",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "57753059703226801851781381242167338912810696791808355294890926202380827041487",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "57753059703226801851781381242167338912810696791808355294890926202380827041487",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:47.492Z"
+    },
+    {
+      "id": "stress-41",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129574401",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129574401",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129574401",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:47.586Z"
+    },
+    {
+      "id": "stress-42",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "115792089237316195423570985008687907852929702298719625576031102888628780531715",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "115792089237316195423570985008687907852929702298719625576031102888628780531715",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "115792089237316195423570985008687907852929702298719625576031102888628780531715",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:47.678Z"
+    },
+    {
+      "id": "stress-43",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "62272303287047954784614789323316580482275808957737939837355423736418525337584",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "62272303287047954784614789323316580482275808957737939837355423736418525337584",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "62272303287047954784614789323316580482275808957737939837355423736418525337584",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:47.785Z"
+    },
+    {
+      "id": "stress-44",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "511",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "511",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "511",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:47.878Z"
+    },
+    {
+      "id": "stress-45",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129639935",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129639935",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129639935",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:47.986Z"
+    },
+    {
+      "id": "stress-46",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "10714603558445031616501612086850712719059845913851183519076643337323295107747",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "10714603558445031616501612086850712719059845913851183519076643337323295107747",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "10714603558445031616501612086850712719059845913851183519076643337323295107747",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:48.076Z"
+    },
+    {
+      "id": "stress-47",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "32720480933032217549937230677374668409250238133346301751552156940635183655511",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "32720480933032217549937230677374668409250238133346301751552156940635183655511",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "32720480933032217549937230677374668409250238133346301751552156940635183655511",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:48.169Z"
+    },
+    {
+      "id": "stress-48",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "81248239533184588952672079496046146508241055416123447744214409582661732152888",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "81248239533184588952672079496046146508241055416123447744214409582661732152888",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "81248239533184588952672079496046146508241055416123447744214409582661732152888",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:48.261Z"
+    },
+    {
+      "id": "stress-49",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "85965838217468921386614793693227033385295486111004776028328220579360595576368",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "85965838217468921386614793693227033385295486111004776028328220579360595576368",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "85965838217468921386614793693227033385295486111004776028328220579360595576368",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:48.353Z"
+    },
+    {
+      "id": "stress-50",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129574401",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129574401",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129574401",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:48.445Z"
+    },
+    {
+      "id": "stress-51",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "3",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "3",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "3",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:48.539Z"
+    },
+    {
+      "id": "stress-52",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "59897589904216161455234177016569682555490410368461061896483963063878154305985",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "59897589904216161455234177016569682555490410368461061896483963063878154305985",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "59897589904216161455234177016569682555490410368461061896483963063878154305985",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:48.632Z"
+    },
+    {
+      "id": "stress-53",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "65532",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "65532",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "65532",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:48.727Z"
+    },
+    {
+      "id": "stress-54",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "7831457309767391718906419270691991737399767105822021988497899626420786878752",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "7831457309767391718906419270691991737399767105822021988497899626420786878752",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "7831457309767391718906419270691991737399767105822021988497899626420786878752",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:48.821Z"
+    },
+    {
+      "id": "stress-55",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "80343595240259628698542975745638124706907551191306670763287284789711060627115",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "80343595240259628698542975745638124706907551191306670763287284789711060627115",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "80343595240259628698542975745638124706907551191306670763287284789711060627115",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:48.913Z"
+    },
+    {
+      "id": "stress-56",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "0",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "0",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "0",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:49.005Z"
+    },
+    {
+      "id": "stress-57",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "89564890118048856919273947246704937955335706695513906079693813826173417779544",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "89564890118048856919273947246704937955335706695513906079693813826173417779544",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "89564890118048856919273947246704937955335706695513906079693813826173417779544",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:49.096Z"
+    },
+    {
+      "id": "stress-58",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129639932",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129639932",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129639932",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:49.189Z"
+    },
+    {
+      "id": "stress-59",
+      "kind": "boundary-arithmetic",
+      "description": "Vault.stress(a, b) — unchecked overflow/underflow arithmetic at boundary values",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": "113042046283869908575863759856699177517293820889992068498703972718069190273057",
+          "gasUsed": null
+        },
+        "node-b": {
+          "success": true,
+          "value": "113042046283869908575863759856699177517293820889992068498703972718069190273057",
+          "gasUsed": null
+        },
+        "node-c": {
+          "success": true,
+          "value": "113042046283869908575863759856699177517293820889992068498703972718069190273057",
+          "gasUsed": null
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:49.300Z"
+    },
+    {
+      "id": "transient-0",
+      "kind": "hardfork-sensitive-opcode",
+      "description": "TransientCounter.bump() — uses TSTORE/TLOAD (EIP-1153, Cancun-only)",
+      "perNode": {
+        "node-a": {
+          "success": false,
+          "value": null,
+          "reason": "nonce has already been used"
+        },
+        "node-b": {
+          "success": false,
+          "value": null,
+          "reason": "nonce has already been used"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "missing revert data"
+        }
+      },
+      "diverged": true,
+      "severity": "high",
+      "timestamp": "2026-09-07T06:15:49.695Z"
+    },
+    {
+      "id": "transient-1",
+      "kind": "hardfork-sensitive-opcode",
+      "description": "TransientCounter.bump() — uses TSTORE/TLOAD (EIP-1153, Cancun-only)",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-b": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "missing revert data"
+        }
+      },
+      "diverged": true,
+      "severity": "high",
+      "timestamp": "2026-09-07T06:15:50.067Z"
+    },
+    {
+      "id": "transient-2",
+      "kind": "hardfork-sensitive-opcode",
+      "description": "TransientCounter.bump() — uses TSTORE/TLOAD (EIP-1153, Cancun-only)",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-b": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "missing revert data"
+        }
+      },
+      "diverged": true,
+      "severity": "high",
+      "timestamp": "2026-09-07T06:15:50.462Z"
+    },
+    {
+      "id": "transient-3",
+      "kind": "hardfork-sensitive-opcode",
+      "description": "TransientCounter.bump() — uses TSTORE/TLOAD (EIP-1153, Cancun-only)",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-b": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "missing revert data"
+        }
+      },
+      "diverged": true,
+      "severity": "high",
+      "timestamp": "2026-09-07T06:15:50.841Z"
+    },
+    {
+      "id": "transient-4",
+      "kind": "hardfork-sensitive-opcode",
+      "description": "TransientCounter.bump() — uses TSTORE/TLOAD (EIP-1153, Cancun-only)",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-b": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "missing revert data"
+        }
+      },
+      "diverged": true,
+      "severity": "high",
+      "timestamp": "2026-09-07T06:15:51.201Z"
+    },
+    {
+      "id": "transient-5",
+      "kind": "hardfork-sensitive-opcode",
+      "description": "TransientCounter.bump() — uses TSTORE/TLOAD (EIP-1153, Cancun-only)",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-b": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "missing revert data"
+        }
+      },
+      "diverged": true,
+      "severity": "high",
+      "timestamp": "2026-09-07T06:15:51.557Z"
+    },
+    {
+      "id": "transient-6",
+      "kind": "hardfork-sensitive-opcode",
+      "description": "TransientCounter.bump() — uses TSTORE/TLOAD (EIP-1153, Cancun-only)",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-b": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "missing revert data"
+        }
+      },
+      "diverged": true,
+      "severity": "high",
+      "timestamp": "2026-09-07T06:15:51.923Z"
+    },
+    {
+      "id": "transient-7",
+      "kind": "hardfork-sensitive-opcode",
+      "description": "TransientCounter.bump() — uses TSTORE/TLOAD (EIP-1153, Cancun-only)",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-b": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "missing revert data"
+        }
+      },
+      "diverged": true,
+      "severity": "high",
+      "timestamp": "2026-09-07T06:15:52.282Z"
+    },
+    {
+      "id": "transient-8",
+      "kind": "hardfork-sensitive-opcode",
+      "description": "TransientCounter.bump() — uses TSTORE/TLOAD (EIP-1153, Cancun-only)",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-b": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "missing revert data"
+        }
+      },
+      "diverged": true,
+      "severity": "high",
+      "timestamp": "2026-09-07T06:15:52.652Z"
+    },
+    {
+      "id": "transient-9",
+      "kind": "hardfork-sensitive-opcode",
+      "description": "TransientCounter.bump() — uses TSTORE/TLOAD (EIP-1153, Cancun-only)",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-b": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "missing revert data"
+        }
+      },
+      "diverged": true,
+      "severity": "high",
+      "timestamp": "2026-09-07T06:15:53.013Z"
+    },
+    {
+      "id": "transient-10",
+      "kind": "hardfork-sensitive-opcode",
+      "description": "TransientCounter.bump() — uses TSTORE/TLOAD (EIP-1153, Cancun-only)",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-b": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "missing revert data"
+        }
+      },
+      "diverged": true,
+      "severity": "high",
+      "timestamp": "2026-09-07T06:15:53.382Z"
+    },
+    {
+      "id": "transient-11",
+      "kind": "hardfork-sensitive-opcode",
+      "description": "TransientCounter.bump() — uses TSTORE/TLOAD (EIP-1153, Cancun-only)",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-b": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "missing revert data"
+        }
+      },
+      "diverged": true,
+      "severity": "high",
+      "timestamp": "2026-09-07T06:15:53.735Z"
+    },
+    {
+      "id": "transient-12",
+      "kind": "hardfork-sensitive-opcode",
+      "description": "TransientCounter.bump() — uses TSTORE/TLOAD (EIP-1153, Cancun-only)",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-b": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "missing revert data"
+        }
+      },
+      "diverged": true,
+      "severity": "high",
+      "timestamp": "2026-09-07T06:15:54.090Z"
+    },
+    {
+      "id": "transient-13",
+      "kind": "hardfork-sensitive-opcode",
+      "description": "TransientCounter.bump() — uses TSTORE/TLOAD (EIP-1153, Cancun-only)",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-b": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "missing revert data"
+        }
+      },
+      "diverged": true,
+      "severity": "high",
+      "timestamp": "2026-09-07T06:15:54.442Z"
+    },
+    {
+      "id": "transient-14",
+      "kind": "hardfork-sensitive-opcode",
+      "description": "TransientCounter.bump() — uses TSTORE/TLOAD (EIP-1153, Cancun-only)",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-b": {
+          "success": true,
+          "value": null,
+          "gasUsed": "21598"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "missing revert data"
+        }
+      },
+      "diverged": true,
+      "severity": "high",
+      "timestamp": "2026-09-07T06:15:54.796Z"
+    },
+    {
+      "id": "gasedge-0",
+      "kind": "gas-limit-boundary",
+      "description": "Vault.deposit() sent with an extreme gas limit (21001) to probe gas-accounting edge cases",
+      "perNode": {
+        "node-a": {
+          "success": false,
+          "value": null,
+          "reason": "could not coalesce error"
+        },
+        "node-b": {
+          "success": false,
+          "value": null,
+          "reason": "could not coalesce error"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "could not coalesce error"
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:55.179Z"
+    },
+    {
+      "id": "gasedge-1",
+      "kind": "gas-limit-boundary",
+      "description": "Vault.deposit() sent with an extreme gas limit (21064) to probe gas-accounting edge cases",
+      "perNode": {
+        "node-a": {
+          "success": false,
+          "value": null,
+          "reason": "could not coalesce error"
+        },
+        "node-b": {
+          "success": false,
+          "value": null,
+          "reason": "could not coalesce error"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "could not coalesce error"
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:55.534Z"
+    },
+    {
+      "id": "gasedge-2",
+      "kind": "gas-limit-boundary",
+      "description": "Vault.deposit() sent with an extreme gas limit (30000) to probe gas-accounting edge cases",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": null,
+          "gasUsed": "27726"
+        },
+        "node-b": {
+          "success": true,
+          "value": null,
+          "gasUsed": "27726"
+        },
+        "node-c": {
+          "success": true,
+          "value": null,
+          "gasUsed": "27726"
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:55.963Z"
+    },
+    {
+      "id": "gasedge-3",
+      "kind": "gas-limit-boundary",
+      "description": "Vault.deposit() sent with an extreme gas limit (10000000) to probe gas-accounting edge cases",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": null,
+          "gasUsed": "27726"
+        },
+        "node-b": {
+          "success": true,
+          "value": null,
+          "gasUsed": "27726"
+        },
+        "node-c": {
+          "success": true,
+          "value": null,
+          "gasUsed": "27726"
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:56.413Z"
+    },
+    {
+      "id": "gasedge-4",
+      "kind": "gas-limit-boundary",
+      "description": "Vault.deposit() sent with an extreme gas limit (21001) to probe gas-accounting edge cases",
+      "perNode": {
+        "node-a": {
+          "success": false,
+          "value": null,
+          "reason": "could not coalesce error"
+        },
+        "node-b": {
+          "success": false,
+          "value": null,
+          "reason": "could not coalesce error"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "could not coalesce error"
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:56.769Z"
+    },
+    {
+      "id": "gasedge-5",
+      "kind": "gas-limit-boundary",
+      "description": "Vault.deposit() sent with an extreme gas limit (21064) to probe gas-accounting edge cases",
+      "perNode": {
+        "node-a": {
+          "success": false,
+          "value": null,
+          "reason": "could not coalesce error"
+        },
+        "node-b": {
+          "success": false,
+          "value": null,
+          "reason": "could not coalesce error"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "could not coalesce error"
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:57.123Z"
+    },
+    {
+      "id": "gasedge-6",
+      "kind": "gas-limit-boundary",
+      "description": "Vault.deposit() sent with an extreme gas limit (30000) to probe gas-accounting edge cases",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": null,
+          "gasUsed": "27726"
+        },
+        "node-b": {
+          "success": true,
+          "value": null,
+          "gasUsed": "27726"
+        },
+        "node-c": {
+          "success": true,
+          "value": null,
+          "gasUsed": "27726"
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:57.565Z"
+    },
+    {
+      "id": "gasedge-7",
+      "kind": "gas-limit-boundary",
+      "description": "Vault.deposit() sent with an extreme gas limit (10000000) to probe gas-accounting edge cases",
+      "perNode": {
+        "node-a": {
+          "success": true,
+          "value": null,
+          "gasUsed": "27726"
+        },
+        "node-b": {
+          "success": true,
+          "value": null,
+          "gasUsed": "27726"
+        },
+        "node-c": {
+          "success": true,
+          "value": null,
+          "gasUsed": "27726"
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:57.982Z"
+    },
+    {
+      "id": "calldata-0",
+      "kind": "malformed-calldata",
+      "description": "Raw transaction with invalid function selector (0x6d720a40) sent directly to Vault",
+      "perNode": {
+        "node-a": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        },
+        "node-b": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:58.153Z"
+    },
+    {
+      "id": "calldata-1",
+      "kind": "malformed-calldata",
+      "description": "Raw transaction with invalid function selector (0x5bb40854) sent directly to Vault",
+      "perNode": {
+        "node-a": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        },
+        "node-b": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:58.322Z"
+    },
+    {
+      "id": "calldata-2",
+      "kind": "malformed-calldata",
+      "description": "Raw transaction with invalid function selector (0xc61816cb) sent directly to Vault",
+      "perNode": {
+        "node-a": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        },
+        "node-b": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:58.475Z"
+    },
+    {
+      "id": "calldata-3",
+      "kind": "malformed-calldata",
+      "description": "Raw transaction with invalid function selector (0x1fe1c3378c3c83) sent directly to Vault",
+      "perNode": {
+        "node-a": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        },
+        "node-b": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:58.631Z"
+    },
+    {
+      "id": "calldata-4",
+      "kind": "malformed-calldata",
+      "description": "Raw transaction with invalid function selector (0x38360764dc) sent directly to Vault",
+      "perNode": {
+        "node-a": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        },
+        "node-b": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:58.784Z"
+    },
+    {
+      "id": "calldata-5",
+      "kind": "malformed-calldata",
+      "description": "Raw transaction with invalid function selector (0x9a362fa5) sent directly to Vault",
+      "perNode": {
+        "node-a": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        },
+        "node-b": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:58.939Z"
+    },
+    {
+      "id": "calldata-6",
+      "kind": "malformed-calldata",
+      "description": "Raw transaction with invalid function selector (0x48e8c39c) sent directly to Vault",
+      "perNode": {
+        "node-a": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        },
+        "node-b": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:59.077Z"
+    },
+    {
+      "id": "calldata-7",
+      "kind": "malformed-calldata",
+      "description": "Raw transaction with invalid function selector (0x61e76b3735bd41) sent directly to Vault",
+      "perNode": {
+        "node-a": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        },
+        "node-b": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        },
+        "node-c": {
+          "success": false,
+          "value": null,
+          "reason": "execution reverted (no data present; likely require(false) occurred"
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:59.217Z"
+    },
+    {
+      "id": "reentrancy-0",
+      "kind": "reentrancy-attack",
+      "description": "Reentrant.attack() — attempts to re-enter Vault.withdraw() mid-call via a malicious receive() hook",
+      "perNode": {
+        "node-a": {
+          "success": false,
+          "value": "FAIL:attempts=0",
+          "reason": "nonce has already been used"
+        },
+        "node-b": {
+          "success": false,
+          "value": "FAIL:attempts=0",
+          "reason": "nonce has already been used"
+        },
+        "node-c": {
+          "success": false,
+          "value": "FAIL:attempts=0",
+          "reason": "nonce has already been used"
+        }
+      },
+      "diverged": false,
+      "severity": "none",
+      "timestamp": "2026-09-07T06:15:59.693Z"
+    }
+  ]
+}
